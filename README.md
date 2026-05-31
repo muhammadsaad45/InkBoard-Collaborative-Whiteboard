@@ -115,8 +115,8 @@ Developed as the final project for CSC303 Mobile Application Development at COMS
 
 | Home | Chat | Board |
 |------|------|------|
-| ![](assets/screenshots/home.png) | ![](assets/screenshots/chat.png) | ![](assets/screenshots/board.png) |
+| ![](assets/screenshots/home.jpeg) | ![](assets/screenshots/chat.jpeg) | ![](assets/screenshots/board.jpeg) |
 
 | Settings | Login | Join |
 |----------|-------|------|
-| ![](assets/screenshots/settings.png) | ![](assets/screenshots/login.png) | ![](assets/screenshots/join.png) |
+| ![](assets/screenshots/settings.jpeg) | ![](assets/screenshots/login.jpeg) | ![](assets/screenshots/join.jpeg) |
