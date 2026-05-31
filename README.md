@@ -110,3 +110,13 @@ flutter run
 ## Academic Context
 
 Developed as the final project for CSC303 Mobile Application Development at COMSATS University Islamabad.
+
+## Screenshots
+
+| Home | Chat | Board |
+|------|------|------|
+| ![](assets/screenshots/home.png) | ![](assets/screenshots/chat.png) | ![](assets/screenshots/board.png) |
+
+| Settings | Login | Join |
+|----------|-------|------|
+| ![](assets/screenshots/settings.png) | ![](assets/screenshots/login.png) | ![](assets/screenshots/join.png) |
