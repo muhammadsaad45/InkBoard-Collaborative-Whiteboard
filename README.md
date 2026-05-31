@@ -68,7 +68,7 @@ lib/
 Clone the repository:
 
 ```bash
-git clone https://github.com/muhammadsaad45/InkBoard.git
+git clone https://github.com/muhammadsaad45/InkBoard-Collaborative-Whiteboard.git
 cd InkBoard
 ```
 
